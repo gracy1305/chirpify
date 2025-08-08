@@ -51,14 +51,4 @@ It corrects your sentences, explains the grammar, and motivates you — all in j
 
 ## 📜 License
 MIT License
-```yaml
----
-
-## Commit it to GitHub
-In your PyCharm terminal:
-
-```bash
-git add README.md
-git commit -m "Add README with project details"
-git push origin main
 
